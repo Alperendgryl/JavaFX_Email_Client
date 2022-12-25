@@ -629,7 +629,6 @@ public class Controller extends Application {
         stage.show();
     }
 
-    //advjava51@gmail.com gduumafmdfqfatwp 587
     void newHost(Stage stage) {
         VBox root = new VBox(30);
         root.setMaxSize(Double.MAX_VALUE, Double.MAX_VALUE);
@@ -725,7 +724,6 @@ public class Controller extends Application {
         stage.show();
     }
 
-    //mailjava00@gmail.com  ajslbmuvbadcifdu
     void receiveMail() {
         String sender;
         String subject;
